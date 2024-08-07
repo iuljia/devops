@@ -1,3 +1,5 @@
+Project took for practice and learning new technologies.
+/DevOps Course
 # Project Documentation: Dev Portfolio
 
 This README provides a comprehensive guide on setting up the **Dev Portfolio** project, showcasing robust **DevOps** practices. The project involves provisioning an **AWS EKS** cluster using **Terraform**, implementing a **CI/CD pipeline** with **GitHub Actions**, **Docker**, **Kubernetes**, and **Argo CD**, and ensuring security best practices are followed.
