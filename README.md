@@ -1,4 +1,4 @@
-Project took for practice and learning new technologies.
+Project took for practice and learning of new technologies.
 /DevOps Course
 # Project Documentation: Dev Portfolio
 
